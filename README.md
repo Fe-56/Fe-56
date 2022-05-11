@@ -2,7 +2,7 @@
 My name is Fuo En, a Computer Science & Design Junior at Singapore University of Technology and Design (SUTD)
 
 - ⭐ My interests lie in Full-Stack Development, Machine Learning and Internet of Things! I am also exploring being an entrepreneur
-- 🔭 I’m currently working on developing a Telegram Bot, Android application, and a website for a start-up with my friend, called Lonely No Longer
+- 🔭 I’m currently working on developing a Telegram Bot, Android application, and a website for a start-up called Lonely No Longer, with my friend
 - 🌱 I’m currently learning the various tech stacks in full-stack development, from the free online courses provided by freeCodeCamp.org
 - 🤔 I’m looking for help with a suitable route to get into full-stack development, so please contact me if you have any advice on that!
 - 💬 Ask me about the start-up I mentioned earlier (Lonely No Longer)! I will be glad to answer any queries on that
