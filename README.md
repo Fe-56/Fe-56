@@ -8,4 +8,4 @@ My name is Fuo En, a Computer Science & Design Junior at Singapore University of
 - 💬 Ask me about the start-up I mentioned earlier (Lonely No Longer)! I will be glad to answer any queries on that
 - 📫 How to reach me: You can send me an email at limfuoen1999@gmail.com or drop me a mesasge on Telegram at @Fe_56
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I go by a very chemistry-related username/nickname of Fe-56. That is because the initials of my given name are F and E
+- ⚡ Fun fact: I go by a very chemistry-related username/nickname of Fe-56. That is because the initials of my given name are F and E, and the chemical symbol of iron is Fe
