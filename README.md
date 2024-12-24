@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Fuo En, a Computer Science & Design Junior at the Singapore University of Technology and Design (SUTD)
+My name is Fuo En, a Computer Science & Design Senior at the Singapore University of Technology and Design (SUTD)
 
 - ⭐ My interests lie in Full-Stack Development and Mobile Application Development! I am also exploring being an entrepreneur
 - 🔭 I’m currently working on developing a full stack web application for a personalised travel itinerary generation for a start-up called Itineratum
